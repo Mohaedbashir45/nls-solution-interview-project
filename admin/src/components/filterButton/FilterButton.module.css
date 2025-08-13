@@ -1,0 +1,12 @@
+.filterBtn {
+  display: flex;
+  align-items: center;
+  color: #2563eb;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+.icon {
+  margin-right: 0.5rem;
+}
